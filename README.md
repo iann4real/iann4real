@@ -16,7 +16,7 @@ You may reach me at:
 LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/adrian-barrios-190b4028b/?skipRedirect=true)
 Email: barriosadriann12@gmail.com
 
-# Hi there, Adrian Barrios 
+# Hi there, Every
 
  About Me
 I am **Adrian Barrios**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
